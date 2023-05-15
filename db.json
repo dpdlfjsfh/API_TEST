@@ -26,7 +26,7 @@
     {"id": 24, "title": "브로콜리 1송이", "price": "2000"}
   ],
   "__meta": {
-    "/posts": {
+    "/product": {
       "headers": {
         "X-Custom-Header": "Example Result Header"
       }
