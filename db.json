@@ -23,8 +23,7 @@
     {"id": 21, "title": "고구마 1kg", "price": "3000"},
     {"id": 22, "title": "양파 1kg", "price": "2000"},
     {"id": 23, "title": "상추 1봉", "price": "1000"},
-    {"id": 24, "title": "브로콜리 1송이", "price": "2000"},
-    {"id": 25, "title": "토마토 1kg", "price": "3000"}
+    {"id": 24, "title": "브로콜리 1송이", "price": "2000"}
   ],
   "__meta": {
     "/posts": {
