@@ -25,5 +25,12 @@
     {"id": 23, "title": "상추 1봉", "price": "1000"},
     {"id": 24, "title": "브로콜리 1송이", "price": "2000"},
     {"id": 25, "title": "토마토 1kg", "price": "3000"}
-  ]
+  ],
+  "__meta": {
+    "/posts": {
+      "headers": {
+        "X-Custom-Header": "Example Result Header"
+      }
+    }
+  }
   }
